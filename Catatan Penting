@@ -1,0 +1,13 @@
+Catatan 
+
+IP yang di URL di Main activity itu IP komputer
+
+Buat maps tinggal d hubungin dengan database, tpi masih error pas d coba, jd yg d up yang masih pakai editext
+
+dari list desa ke artikel udah bisa pindah activity,, tapi untuk id masih belum bisa kehubung ke database, pas d coba jd ngeshutdown app nya pas d buka
+
+list desa sma maps belum terhubung
+
+aku nambahin lokasi_awal dan lokasi_akhir di db yang isinya titik awal dan titik akhir buat di maps
+
+img juga penulisan di localhostnya beda,, contohnya gini "http://192.168.1.8/apixampp/img/kampung_naga.jpg" -> IP komputer/folder di dalem htdocs xampp/folder tempat nyimpen fotonya/namafoto
